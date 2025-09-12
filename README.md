@@ -2,7 +2,7 @@
 I'm passionate about all things coding but right now, working in backend development and learning more about the cloud is my main focus.
 
 - 📚 Computer Science Student @ City, University of London
-- 🔭 Backend Developer @ Lancy – Building a scalable backend for an up-and-coming startup helping brands manage their communities.
+- 🔭 Frontend Developer @ Protesyn Studio – Building a frontend for a "healthier tomorrow" 
 - 🌱 Currently Learning: Go, JavaScript, and React. Excited to dive deeper into Java and Spring Boot in the future.
 - 👀 Interests: I like working in startups and getting deeply involved in building production-ready code.
 - 📫 Reach me at: peimantimaji@yahoo.com
