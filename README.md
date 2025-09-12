@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Peiman
-I'm passionate about all things coding but right now, working in backend development and learning more about the cloud is my main focus.
+I'm passionate about all things coding but right now, working in web development and learning more about the cloud is my main focus.
 
 - 📚 Computer Science Student @ City, University of London
 - 🔭 Frontend Developer @ Protesyn Studio – Building a frontend for a "healthier tomorrow" 
