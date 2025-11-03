@@ -2,8 +2,8 @@
 I'm passionate about all things coding but right now, working in web development and learning more about the cloud is my main focus.
 
 - 📚 Computer Science Student @ City, University of London
-- 🔭 Frontend Developer @ Protesyn Studio – Building a frontend for a "healthier tomorrow" 
-- 🌱 Currently Learning: Go, JavaScript, and React. Excited to dive deeper into Java and Spring Boot in the future.
+- 🔭 Frontend Developer @ Protesyn Studio
+- 🌱 Currently Learning: Go, TypeScript, and React. Excited to dive deeper into Java and Spring Boot in the future.
 - 👀 Interests: I like working in startups and getting deeply involved in building production-ready code.
 - 📫 Reach me at: peimantimaji@yahoo.com
 
